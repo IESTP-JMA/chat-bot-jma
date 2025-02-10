@@ -66,11 +66,11 @@ const flowDate = addKeyword(["3", "tres", "3️⃣"])
 const flowDoc = addKeyword(["4", "cuatro", "4️⃣"])
   .addAnswer("Descarga el Prospecto de Admisión 2025", {
     media:
-      "https://iestpjmapuquio.edu.pe/wp-content/uploads/2025/01/PROSPECTO_2025.pdf",
+      "https://iestpjmapuquio.edu.pe/wp-content/uploads/2025/02/PROSPECTO_2025.pdf",
   })
   .addAnswer(
     "Si desea regresar al menú principal, escriba *siguiente* o *menu*",
-    {delay:3000}
+    { delay: 3000 }
   );
 
 const flowPrincipal = addKeyword([
