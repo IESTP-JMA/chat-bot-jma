@@ -11,10 +11,10 @@ const flowInfo = addKeyword(["1", "uno", "1️⃣"])
   ])
 
   .addAnswer([
-    "👉 🐄🐄Producción Agropecuaria (*35 vacantes*)",
-    "👉 👨‍⚕️👨‍⚕️Enfermería Tecnica (*35 vacantes*)",
-    "👉 👨‍💻👨‍💻Arquitectura de Plataformas y servicios de Tecnologías de la Información (*35 vacantes*)",
-    "👉 👨‍🔧👨‍🔧Mecatrónica Automotriz (*35 vacantes*)",
+    "👉 🐄🐄Producción Agropecuaria (*39 vacantes*)",
+    "👉 👨‍⚕️👨‍⚕️Enfermería Tecnica (*39 vacantes*)",
+    "👉 👨‍💻👨‍💻Arquitectura de Plataformas y servicios de Tecnologías de la Información (*39 vacantes*)",
+    "👉 👨‍🔧👨‍🔧Mecatrónica Automotriz (*39 vacantes*)",
   ])
   .addAnswer([
     "Si desea regresar al menú principal, escriba *siguiente* o *menu*",
